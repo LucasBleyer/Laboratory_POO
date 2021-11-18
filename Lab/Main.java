@@ -13,9 +13,9 @@ public class Lab {
         paciente1.setMonth_return(4);
         paciente1.setDay_return(20);
     //method of calcule of dates and months
-        paciente1.calculo_idade_paciente();
+        pacient1.calcule_age_pacient();
     //show the result with to String
-        System.out.println(paciente1.toString());
+        System.out.println(pacient1.toString());
     }
     
 }
